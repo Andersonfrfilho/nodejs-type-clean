@@ -5,3 +5,4 @@ dist_modules
 .husky
 package-lock.json
 package.json
+coverage

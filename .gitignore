@@ -1,3 +1,4 @@
 node_modules
 dist_modules
 .history
+coverage
