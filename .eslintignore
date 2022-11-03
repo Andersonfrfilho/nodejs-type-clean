@@ -2,3 +2,6 @@ node_modules
 dist_modules
 .history
 .vscode
+.husky
+package-lock.json
+package.json

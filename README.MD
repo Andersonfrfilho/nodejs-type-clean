@@ -1,0 +1,2 @@
+- configurar linter
+- configurar husky / linter
