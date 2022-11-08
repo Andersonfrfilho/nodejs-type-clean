@@ -7,7 +7,8 @@
   "overrides": [
   ],
   "rules": {
-    "@typescript-eslint/strict-boolean-expressions": "off"
+    "@typescript-eslint/strict-boolean-expressions": "off",
+    "eslint no-return-await": "off"
   },
   "parserOptions": {
     "ecmaVersion": "latest",
