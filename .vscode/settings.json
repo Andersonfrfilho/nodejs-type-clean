@@ -7,5 +7,7 @@
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "jestrunner.jestCommand": "npm run test",
+  "jest.jestCommandLine": "npm run test"
 }
