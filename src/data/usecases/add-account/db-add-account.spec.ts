@@ -1,5 +1,6 @@
+import { Hasher } from '../../protocol/criptography/hasher'
 import { DbAddAccount } from './db-add-account'
-import { AccountModel, Hasher, AddAccountModel, AddAccountRepository } from './db-add-account-protocols'
+import { AccountModel, AddAccountModel, AddAccountRepository } from './db-add-account-protocols'
 
 const makeFakeAccountData = (): AddAccountModel => ({
   name: 'valid_name',
